@@ -1,0 +1,13 @@
+# app/config.py
+
+TIER_HIGH_THRESHOLD = 0.7
+TIER_MEDIUM_THRESHOLD = 0.3
+
+RULE_LOW_AMOUNT_THRESHOLD = 5.0
+RULE_NIGHT_HOUR_START = 1
+RULE_NIGHT_HOUR_END = 5
+
+MODEL_PATH = "models/fraud_model.joblib"
+
+GROQ_MODEL_HIGH = "openai/gpt-oss-120b"
+GROQ_MODEL_MEDIUM = "openai/gpt-oss-20b"
