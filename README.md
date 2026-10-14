@@ -453,7 +453,7 @@ inside an expandable Advanced PCA Features section.
 
 1. Clone the repository
 
-git clone https://github.com/PulakJindal/transactsafe.git
+git clone https://github.com/jogendrakumar07062006/Transactsafe.git
 cd transactsafe
 
 2. Checkout the dashboard branch
@@ -751,13 +751,13 @@ The goal is not simply to say "this transaction is suspicious", but to give an a
 
 👨‍💻 Author
 
-Pulak Jindal
+Jogendra Kumar
 
-GitHub: https://github.com/PulakJindal
+GitHub: https://github.com/jogendrakumar07062006
 
 Repository:
 
-https://github.com/PulakJindal/transactsafe
+https://github.com/jogendrakumar07062006/Transactsafe
 
 ⚠️ Disclaimer
 
